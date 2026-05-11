@@ -1,0 +1,5 @@
+1. El simbolo de (-) significa que el atributo es privado , el simbolo de (+) significa que el atributo es publico
+
+2. Disponible es tipo booleano y los unicos valores que puede tener es true o false
+
+3. El metodo ToString() se utiliza para convertir un objeto a una cadena de texto, es decir, devuelve una representación en forma de texto del objeto.
